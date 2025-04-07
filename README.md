@@ -31,5 +31,4 @@ unzip ISL_Detection_w/_dataset.zip
 ```
 
 ## ✨ Demo
-
-![ISL Detection Demo](Demo video for Indian sign language detection.mp4)
+https://drive.google.com/file/d/1Jq0yrLQS5GN3t1YkdtdOMP7-6Gs8bN_q/view?usp=drive_link
