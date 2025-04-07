@@ -21,7 +21,7 @@ cd Indian-Sign-Language-detection
 
 # 2. Download the dataset and models
 # (from the Releases tab or use this direct link)
-# https://github.com/Ali498609/Indian-Sign-Language-detection/releases/tag/v1.0
+https://github.com/Ali498609/Indian-Sign-Language-detection/releases/tag/v1.0
 
 # 3. Unzip the downloaded file
 unzip ISL_Detection_w/_dataset.zip
