@@ -1,1 +1,2 @@
-
+https://github.com/Ali498609/Indian-Sign-Language-detection/releases/tag/v1.0
+check this out, my custom dataset and yolov11 models trained on this dataset.
