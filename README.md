@@ -28,6 +28,10 @@ unzip isl_dataset_and_models.zip
 
 # 4. Run the notebook
 # Open 'isl_detection.ipynb' in Jupyter or VS Code and run the cells
+```
+
+## Demo
+
 
 
 ## ✨ Demo
